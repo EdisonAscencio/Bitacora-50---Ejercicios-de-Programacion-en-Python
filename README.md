@@ -1,0 +1,2 @@
+# Bitácora 50 - Ejercicios de Python: De lo Básico a lo Avanzado
+Este repositorio contiene una colección de 50 ejercicios de Python, organizados desde lo más sencillo hasta desafíos más complejos. Incluye programas básicos como suma de dos números y conversor de temperatura, ejercicios intermedios como el juego del ahorcado y una calculadora de interés compuesto, hasta proyectos avanzados como una ruleta de casino, un chatbot y un traductor de texto a código Morse. Perfecto para practicar lógica de programación y mejorar habilidades en Python.
